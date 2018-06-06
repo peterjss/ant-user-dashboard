@@ -58,7 +58,7 @@ if (!global.userTableListData) {
 
 module.exports = {
   //post请求  /api/users/ 是拦截的地址   方法内部接受 request response对象
-  'GET /api/users'(req, res) {
+  'GET /api/users' (req, res) {
     const page = qs.parse(req.query);
     console.log("=============="+page);
     const pageSize = page._limit || 10;
@@ -90,17 +90,13 @@ module.exports = {
         total: userTableListData.page.total,
       }
     }
-
+    res.setHeader('x-total-count', newPage.total);
+    
     setTimeout(() => {
-      // res.json({      //将请求json格式返回
-      //   success: true,
-      //   data,
-      //   page: '123',
-      // });
-      res.json(      //将请求json格式返回
+      res.json(
         data
       );
     }, 200);
-  },
+  }
 
 }
