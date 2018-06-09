@@ -1,0 +1,104 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "phone": "14715451484",
+      "Website": "hildegard.org",
+      "name": "萧秀兰",
+      "username": "Thomas Garcia",
+      "email": "h.mmozlig@visiondk.com",
+      "created_at": "1970-04-28 03:12:43",
+      "updated_at": "1972-12-25 19:01:35"
+    },
+    {
+      "id": 2,
+      "phone": "13133656125",
+      "Website": "hildegard.org",
+      "name": "锺杰",
+      "username": "Shirley Young",
+      "email": "z.rpdrhncp@visiondk.com",
+      "created_at": "1970-08-20 02:50:18",
+      "updated_at": "2014-12-24 10:32:51"
+    },
+    {
+      "id": 3,
+      "phone": "17096855211",
+      "Website": "hildegard.org",
+      "name": "田强",
+      "username": "Gary Lewis",
+      "email": "s.jejocpih@visiondk.com",
+      "created_at": "1972-11-22 09:17:35",
+      "updated_at": "2011-05-11 17:44:47"
+    },
+    {
+      "id": 4,
+      "phone": "13454535154",
+      "Website": "hildegard.org",
+      "name": "卢强",
+      "username": "Patricia Williams",
+      "email": "z.piuliyq@visiondk.com",
+      "created_at": "2008-05-14 15:40:42",
+      "updated_at": "2011-02-07 11:08:27"
+    },
+    {
+      "id": 5,
+      "phone": "18737443679",
+      "Website": "hildegard.org",
+      "name": "钱洋",
+      "username": "Larry Martin",
+      "email": "r.exjimjt@visiondk.com",
+      "created_at": "1982-01-18 13:51:57",
+      "updated_at": "1989-06-17 00:14:03"
+    },
+    {
+      "id": 6,
+      "phone": "13630733144",
+      "Website": "hildegard.org",
+      "name": "张洋",
+      "username": "Sharon Allen",
+      "email": "c.welsbev@visiondk.com",
+      "created_at": "2005-05-21 14:00:08",
+      "updated_at": "1995-09-10 01:08:05"
+    },
+    {
+      "id": 7,
+      "phone": "18431852458",
+      "Website": "hildegard.org",
+      "name": "韩杰",
+      "username": "Robert Williams",
+      "email": "i.luffqmt@visiondk.com",
+      "created_at": "1980-03-12 06:25:04",
+      "updated_at": "1986-08-23 17:00:13"
+    },
+    {
+      "id": 8,
+      "phone": "15282576395",
+      "Website": "hildegard.org",
+      "name": "张勇",
+      "username": "Steven Martinez",
+      "email": "u.cqommgii@visiondk.com",
+      "created_at": "2014-03-07 15:19:44",
+      "updated_at": "1996-07-18 13:14:27"
+    },
+    {
+      "id": 9,
+      "phone": "13280654926",
+      "Website": "hildegard.org",
+      "name": "苏超",
+      "username": "Jose Thomas",
+      "email": "l.nqo@visiondk.com",
+      "created_at": "2005-06-26 01:00:53",
+      "updated_at": "2009-05-26 22:28:35"
+    },
+    {
+      "id": 10,
+      "phone": "14709523869",
+      "Website": "hildegard.org",
+      "name": "韩霞",
+      "username": "Larry Allen",
+      "email": "v.hbtcd@visiondk.com",
+      "created_at": "1992-09-12 14:53:10",
+      "updated_at": "1970-10-08 21:02:08"
+    }
+  ]
+}
