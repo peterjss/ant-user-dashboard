@@ -60,7 +60,7 @@ module.exports = {
   //post请求  /api/users/ 是拦截的地址   方法内部接受 request response对象
   'GET /api/users' (req, res) {
     const page = qs.parse(req.query);
-    console.log("=============="+page);
+    console.log("=============="+page._page+",_limit:"+page._limit);
     const pageSize = page._limit || 10;
     const currentPage = page._page || 1;
 
@@ -91,7 +91,7 @@ module.exports = {
       }
     }
     res.setHeader('x-total-count', newPage.total);
-    
+
     setTimeout(() => {
       res.json(
         data
